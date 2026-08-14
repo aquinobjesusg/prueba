@@ -1,0 +1,23 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "Esto es un repositorio de prueba de proyectos",
+  "main": "index.js",
+  "scripts": {
+    "dev":"php -S localhost:8080",
+    "instalar":"npm install && composer install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquinobjesusg/prueba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquinobjesusg/prueba/issues"
+  },
+  "homepage": "https://github.com/aquinobjesusg/prueba#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
